@@ -36,6 +36,7 @@ header p:hover{
 }
 
 .inButton {
+    font-size: 16px;
 	background-color: blue;
 	border: 2px solid white;
 	border-radius: 30px;
@@ -81,6 +82,7 @@ input {
     width: 50%;
     display: block;
     margin: 15px auto;
+    font-size: 16px;
 }
 
 .close {
